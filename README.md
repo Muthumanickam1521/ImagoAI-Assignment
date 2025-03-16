@@ -23,4 +23,3 @@ pip install -r requirements.txt
 5. You can send prediction request by visiting `http://127.0.0.1:5000/docs#/default/predict_predict_post` after running `API.py`.
 6. Once prediction completed, you would see output like the following:
 ![Output Structure](asset/pic3.png)
- 
